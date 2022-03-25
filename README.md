@@ -1,5 +1,5 @@
 # PinFailureDetection-Vision
-Detection of Soldering failure by integration DeepLearning techniques to "Die and Pry" Experiment
+Detection of Soldering failure by integrating DeepLearning techniques to "Die and Pry" Experiment
 
 
 # Flow Chart 
