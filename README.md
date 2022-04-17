@@ -26,8 +26,9 @@ The approach to tackle this was to make this process as autonomous as possible. 
 
 ## Authors
 
-- [Akshat Shah](www.linkedin.com/in/akshat-shah-4746b5142)
+- [Akshat Shah](https://www.linkedin.com/in/akshat-shah-4746b5142)
 - [Joffin Sony](https://www.linkedin.com/in/joffinsony/)
 - [Rohit Ranjane](https://www.linkedin.com/in/rohit-ranjane/)
 - [Vivek Patel](https://www.linkedin.com/in/vivekpatel97/)
+
 
