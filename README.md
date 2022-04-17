@@ -22,3 +22,12 @@ The approach to tackle this was to make this process as autonomous as possible. 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/102171203/159985997-a6af94ca-1a35-4ff8-abad-b19b70c1edfe.png">             <img width="350" alt="image" src="https://user-images.githubusercontent.com/102171203/159986073-ed717bad-ff13-48dc-9be0-295459bd6913.png">
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/102171203/159986117-30832c9d-9803-4501-ac13-723b76433712.png">
+
+
+## Authors
+
+- [Akshat Shah](www.linkedin.com/in/akshat-shah-4746b5142)
+- [Joffin Sony](https://www.linkedin.com/in/joffinsony/)
+- [Rohit Ranjane](https://www.linkedin.com/in/rohit-ranjane/)
+- [Vivek Patel](https://www.linkedin.com/in/vivekpatel97/)
+
